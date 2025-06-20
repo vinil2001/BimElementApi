@@ -14,7 +14,7 @@ Features:
 - Swagger UI for testing
 
 Run the App:
-1. **Unzip the repo**
+1. Clone the repo
 2. Open terminal in the project directory
 3. Run:
 ```bash
